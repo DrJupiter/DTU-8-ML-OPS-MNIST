@@ -1,0 +1,4 @@
+[core]
+    remote = datagdrive
+['remote "datagdrive"']
+    url = gdrive://1_oNSe9dSolRRg75ZzhEmfz5cC50sYcYs
